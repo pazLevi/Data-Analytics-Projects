@@ -3,7 +3,6 @@
 **System that maintains 4 tables for analyzing, adding and removing data from an academic system**
 
 #### **Programming language** - Python
-<u>underscored text </u>
 ++Underlined Text++
 
 #### **Technologies:**
