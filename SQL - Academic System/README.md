@@ -4,7 +4,7 @@
 
 #### **Programming language** - Python
 
-#### **Technologies:**
+#### **Technologies:** ####
   **Tkinter** - GUI
   
   **Pandas** - Tabels & SQL 
