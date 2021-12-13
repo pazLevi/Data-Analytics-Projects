@@ -4,6 +4,9 @@
 
 #### **Programming language** - Python
 <u>some text</u>
+text here <span style="text-decoration: underline">underlined text</span> other text
+
+
 #### **Technologies:**
   **Tkinter** - GUI
 
