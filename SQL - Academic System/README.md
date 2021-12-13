@@ -5,9 +5,13 @@
 #### **Programming language** - Python
 
 #### **Technologies:**
+
 **Tkinter** - GUI
+
 **Pandas** - Tabels & SQL
+
 **Seaborn** - Graphs & Vizualization
+
 **Numpy** - Math Calculates
 
 
