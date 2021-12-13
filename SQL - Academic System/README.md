@@ -2,7 +2,7 @@
 
 **System that maintains 4 tables for analyzing, adding and removing data from an academic system**
 
-#### **Programming language** - Python
+#### **Programming language** - Python ####
 
 #### **Technologies:** ####
   **Tkinter** - GUI
