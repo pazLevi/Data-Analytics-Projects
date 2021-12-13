@@ -5,16 +5,13 @@
 #### **Programming language** - Python
 
 #### **Technologies:**
+  **Tkinter** - GUI
 
-**Tkinter** - GUI
+  **Pandas** - Tabels & SQL
 
-**Pandas** - Tabels & SQL
+  **Seaborn** - Graphs & Vizualization
 
-**Seaborn** - Graphs & Vizualization
-
-**Numpy** - Math Calculates
-
-
+  **Numpy** - Math Calculates
 
 
 Architecture: MVC (Model, View, Controller)
