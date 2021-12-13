@@ -2,7 +2,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from enum import Enum,auto
 from tkinter import *
-from PIL import ImageTk, Image
 from tkinter import ttk
 import tkinter
 from tkcalendar import Calendar
@@ -12,7 +11,6 @@ import numpy as np
 from tkinter.filedialog import askopenfile
 from tkinter.ttk import *
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
-from PIL import Image, ImageTk
 import numpy as np
 from urllib.request import urlopen
 
