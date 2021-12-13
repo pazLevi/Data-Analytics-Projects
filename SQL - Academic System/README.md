@@ -3,8 +3,7 @@
 **System that maintains 4 tables for analyzing, adding and removing data from an academic system**
 
 #### **Programming language** - Python
-<u>some text</u>
-text here <span style="text-decoration: underline">underlined text</span> other text
+<u>underscored text </u>
 
 
 #### **Technologies:**
