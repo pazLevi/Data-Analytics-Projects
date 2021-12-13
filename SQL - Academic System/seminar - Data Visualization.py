@@ -6,11 +6,9 @@ from PIL import ImageTk, Image
 from tkinter import ttk
 import tkinter
 from tkcalendar import Calendar
-import time
 from pandastable import Table, TableModel
 import pandas as pd
 import numpy as np
-import time
 from tkinter.filedialog import askopenfile
 from tkinter.ttk import *
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
